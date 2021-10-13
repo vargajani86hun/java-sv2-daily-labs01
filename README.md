@@ -1,1 +1,1 @@
-# java-sv2-daily-labs01
+# Az első hét napi feladatainak megoldásai.
